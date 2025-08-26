@@ -2,9 +2,9 @@
 
 An AdonisJS v6 package that provides seamless integration with Gigya (SAP Customer Data Cloud) using the [@cambridge-pte/gigya](https://www.npmjs.com/package/@cambridge-pte/gigya) SDK.
 
-[![npm version](https://badge.fury.io/js/adonis6-gigya.svg)](https://badge.fury.io/js/adonis6-gigya)
+<!-- [![npm version](https://badge.fury.io/js/adonis6-gigya.svg)](https://badge.fury.io/js/adonis6-gigya)
 [![Build Status](https://github.com/your-org/adonis6-gigya/workflows/test/badge.svg)](https://github.com/your-org/adonis6-gigya/actions)
-[![Coverage Status](https://coveralls.io/repos/github/your-org/adonis6-gigya/badge.svg?branch=main)](https://coveralls.io/github/your-org/adonis6-gigya?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/your-org/adonis6-gigya/badge.svg?branch=main)](https://coveralls.io/github/your-org/adonis6-gigya?branch=main) -->
 
 ## Features
 
@@ -14,7 +14,6 @@ An AdonisJS v6 package that provides seamless integration with Gigya (SAP Custom
 - 🛡️ **Type Safety**: Comprehensive TypeScript support with proper type definitions
 - 🔧 **Easy Configuration**: Simple configuration through environment variables or config files
 - 📝 **Signature Utilities**: Built-in signature generation and validation for webhooks
-- 🧪 **Well Tested**: Comprehensive test suite with good coverage
 
 ## Installation
 
